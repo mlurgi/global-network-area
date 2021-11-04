@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="biomass" attr.type="string" for="node" id="d2" />
+  <key attr.name="biomass" attr.type="double" for="node" id="d1" />
+  <key attr.name="group" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Oenanthe oenanthe">
+      <data key="d0">Bird</data>
+      <data key="d1">25.09</data>
+    </node>
+    <node id="Saxicola torquata">
+      <data key="d0">Bird</data>
+      <data key="d1">15.3</data>
+    </node>
+    <node id="Motacilla alba">
+      <data key="d0">Bird</data>
+      <data key="d1">18.96</data>
+    </node>
+    <node id="Falco tinnunculus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">186.95</data>
+    </node>
+    <node id="Emberiza citrinella">
+      <data key="d0">Bird</data>
+      <data key="d1">28.58</data>
+    </node>
+    <node id="Columba oenas">
+      <data key="d0">Bird</data>
+      <data key="d1">303.5</data>
+    </node>
+    <node id="Anthus spinoletta">
+      <data key="d0">Bird</data>
+      <data key="d1">21.2</data>
+    </node>
+    <node id="Upupa epops">
+      <data key="d0">Bird</data>
+      <data key="d1">66.5</data>
+    </node>
+    <node id="Pica pica">
+      <data key="d0">Bird</data>
+      <data key="d1">206.13</data>
+    </node>
+    <node id="Coturnix coturnix">
+      <data key="d0">Bird</data>
+      <data key="d1">112.5</data>
+    </node>
+    <node id="Pyrrhocorax pyrrhocorax">
+      <data key="d0">Bird</data>
+      <data key="d1">277.8</data>
+    </node>
+    <node id="Carduelis cannabina">
+      <data key="d0">Bird</data>
+      <data key="d1">18.78</data>
+    </node>
+    <node id="Serinus serinus">
+      <data key="d0">Bird</data>
+      <data key="d1">11.2</data>
+    </node>
+    <node id="Luscinia megarhynchos">
+      <data key="d0">Bird</data>
+      <data key="d1">19.4</data>
+    </node>
+    <node id="Fringilla coelebs">
+      <data key="d0">Bird</data>
+      <data key="d1">24.26</data>
+    </node>
+    <node id="Erithacus rubecula">
+      <data key="d0">Bird</data>
+      <data key="d1">17.3</data>
+    </node>
+    <node id="Sus scrofa">
+      <data key="d0">Mammal</data>
+      <data key="d1">85000.0</data>
+    </node>
+    <node id="Emberiza cia">
+      <data key="d0">Bird</data>
+      <data key="d1">25.0</data>
+    </node>
+    <node id="Lacerta agilis">
+      <data key="d0">Reptile</data>
+      <data key="d1">9.06</data>
+    </node>
+    <node id="Corvus corone">
+      <data key="d0">Bird</data>
+      <data key="d1">472.7</data>
+    </node>
+    <node id="Apus apus">
+      <data key="d0">Bird</data>
+      <data key="d1">40.0</data>
+    </node>
+    <node id="Anthus trivialis">
+      <data key="d0">Bird</data>
+      <data key="d1">18.4</data>
+    </node>
+    <node id="Turdus merula">
+      <data key="d0">Bird</data>
+      <data key="d1">98.17</data>
+    </node>
+    <node id="Parus major">
+      <data key="d0">Bird</data>
+      <data key="d1">17.02</data>
+    </node>
+    <node id="Corvus monedula">
+      <data key="d0">Bird</data>
+      <data key="d1">211.29</data>
+    </node>
+    <node id="Turdus viscivorus">
+      <data key="d0">Bird</data>
+      <data key="d1">105.85</data>
+    </node>
+    <node id="Emberiza calandra">
+      <data key="d0">Bird</data>
+      <data key="d1">48.8</data>
+    </node>
+    <node id="Oriolus oriolus">
+      <data key="d0">Bird</data>
+      <data key="d1">71.9</data>
+    </node>
+    <node id="Lullula arborea">
+      <data key="d0">Bird</data>
+      <data key="d1">26.9</data>
+    </node>
+    <node id="Picus viridis">
+      <data key="d0">Bird</data>
+      <data key="d1">182.26</data>
+    </node>
+    <node id="Passer montanus">
+      <data key="d0">Bird</data>
+      <data key="d1">21.38</data>
+    </node>
+    <node id="Motacilla flava">
+      <data key="d0">Bird</data>
+      <data key="d1">14.4</data>
+    </node>
+    <node id="Pernis apivorus">
+      <data key="d0">Bird</data>
+      <data key="d1">758.0</data>
+    </node>
+    <node id="Delichon urbica">
+      <data key="d0">Bird</data>
+      <data key="d1">14.5</data>
+    </node>
+    <node id="Anas platyrhynchos">
+      <data key="d0">Bird</data>
+      <data key="d1">1252.14</data>
+    </node>
+    <node id="Parus caeruleus">
+      <data key="d0">Bird</data>
+      <data key="d1">10.79</data>
+    </node>
+    <node id="Troglodytes troglodytes">
+      <data key="d0">Bird</data>
+      <data key="d1">10.0</data>
+    </node>
+    <node id="Alauda arvensis">
+      <data key="d0">Bird</data>
+      <data key="d1">39.77</data>
+    </node>
+    <node id="Lanius meridionalis">
+      <data key="d0">Bird</data>
+      <data key="d1">59.63</data>
+    </node>
+    <node id="Pipistrellus kuhlii">
+      <data key="d0">Mammal</data>
+      <data key="d1">6.0</data>
+    </node>
+    <node id="Burhinus oedicnemus">
+      <data key="d0">Bird</data>
+      <data key="d1">459.0</data>
+    </node>
+    <node id="Motacilla cinerea">
+      <data key="d0">Bird</data>
+      <data key="d1">17.2</data>
+    </node>
+    <node id="Carduelis chloris">
+      <data key="d0">Bird</data>
+      <data key="d1">26.5</data>
+    </node>
+    <node id="Lanius collurio">
+      <data key="d0">Bird</data>
+      <data key="d1">29.9</data>
+    </node>
+    <node id="Invertebrates">
+      <data key="d0">Invertebrate</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Loxia curvirostra">
+      <data key="d0">Bird</data>
+      <data key="d1">34.3</data>
+    </node>
+    <node id="Garrulus glandarius">
+      <data key="d0">Bird</data>
+      <data key="d1">168.89</data>
+    </node>
+    <node id="Sylvia communis">
+      <data key="d0">Bird</data>
+      <data key="d1">14.09</data>
+    </node>
+    <node id="Buteo buteo">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">744.91</data>
+    </node>
+    <node id="Columba palumbus">
+      <data key="d0">Bird</data>
+      <data key="d1">486.83</data>
+    </node>
+    <node id="Aegithalos caudatus">
+      <data key="d0">Bird</data>
+      <data key="d1">8.2</data>
+    </node>
+    <node id="Prunella modularis">
+      <data key="d0">Bird</data>
+      <data key="d1">20.41</data>
+    </node>
+    <node id="Dendrocopos major">
+      <data key="d0">Bird</data>
+      <data key="d1">75.1</data>
+    </node>
+    <node id="Saxicola rubetra">
+      <data key="d0">Bird</data>
+      <data key="d1">16.6</data>
+    </node>
+    <node id="Corvus corax">
+      <data key="d0">Bird</data>
+      <data key="d1">1157.0</data>
+    </node>
+    <node id="Cinclus cinclus">
+      <data key="d0">Bird</data>
+      <data key="d1">61.36</data>
+    </node>
+    <node id="Miliaria calandra">
+      <data key="d0">Bird</data>
+      <data key="d1">46.0</data>
+    </node>
+    <node id="Fish">
+      <data key="d0">Fish</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Sylvia atricapilla">
+      <data key="d0">Bird</data>
+      <data key="d1">19.37</data>
+    </node>
+    <node id="Cuculus canorus">
+      <data key="d0">Bird</data>
+      <data key="d1">104.22</data>
+    </node>
+    <node id="Circaetus gallicus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">1699.5</data>
+    </node>
+    <node id="Bufo calamita">
+      <data key="d0">Amphibian</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Hirundo rustica">
+      <data key="d0">Bird</data>
+      <data key="d1">17.54</data>
+    </node>
+    <node id="Accipiter gentilis">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">1044.0</data>
+    </node>
+    <node id="Phoenicurus ochruros">
+      <data key="d0">Bird</data>
+      <data key="d1">16.5</data>
+    </node>
+    <node id="Passer domesticus">
+      <data key="d0">Bird</data>
+      <data key="d1">28.49</data>
+    </node>
+    <node id="Certhia brachydactyla">
+      <data key="d0">Bird</data>
+      <data key="d1">8.2</data>
+    </node>
+    <node id="Sturnus vulgaris">
+      <data key="d0">Bird</data>
+      <data key="d1">109.4</data>
+    </node>
+    <edge source="Motacilla alba" target="Falco tinnunculus" />
+    <edge source="Falco tinnunculus" target="Accipiter gentilis" />
+    <edge source="Falco tinnunculus" target="Falco tinnunculus" />
+    <edge source="Emberiza citrinella" target="Falco tinnunculus" />
+    <edge source="Emberiza citrinella" target="Lanius collurio" />
+    <edge source="Columba oenas" target="Accipiter gentilis" />
+    <edge source="Upupa epops" target="Accipiter gentilis" />
+    <edge source="Upupa epops" target="Falco tinnunculus" />
+    <edge source="Pica pica" target="Accipiter gentilis" />
+    <edge source="Pica pica" target="Falco tinnunculus" />
+    <edge source="Coturnix coturnix" target="Accipiter gentilis" />
+    <edge source="Coturnix coturnix" target="Buteo buteo" />
+    <edge source="Coturnix coturnix" target="Falco tinnunculus" />
+    <edge source="Carduelis cannabina" target="Accipiter gentilis" />
+    <edge source="Carduelis cannabina" target="Corvus corone" />
+    <edge source="Carduelis cannabina" target="Pica pica" />
+    <edge source="Serinus serinus" target="Accipiter gentilis" />
+    <edge source="Serinus serinus" target="Falco tinnunculus" />
+    <edge source="Luscinia megarhynchos" target="Accipiter gentilis" />
+    <edge source="Luscinia megarhynchos" target="Falco tinnunculus" />
+    <edge source="Fringilla coelebs" target="Accipiter gentilis" />
+    <edge source="Fringilla coelebs" target="Buteo buteo" />
+    <edge source="Fringilla coelebs" target="Falco tinnunculus" />
+    <edge source="Erithacus rubecula" target="Accipiter gentilis" />
+    <edge source="Erithacus rubecula" target="Buteo buteo" />
+    <edge source="Corvus corone" target="Accipiter gentilis" />
+    <edge source="Apus apus" target="Falco tinnunculus" />
+    <edge source="Anthus trivialis" target="Accipiter gentilis" />
+    <edge source="Anthus trivialis" target="Buteo buteo" />
+    <edge source="Anthus trivialis" target="Falco tinnunculus" />
+    <edge source="Turdus merula" target="Accipiter gentilis" />
+    <edge source="Turdus merula" target="Buteo buteo" />
+    <edge source="Turdus merula" target="Falco tinnunculus" />
+    <edge source="Parus major" target="Accipiter gentilis" />
+    <edge source="Parus major" target="Buteo buteo" />
+    <edge source="Parus major" target="Falco tinnunculus" />
+    <edge source="Corvus monedula" target="Accipiter gentilis" />
+    <edge source="Turdus viscivorus" target="Accipiter gentilis" />
+    <edge source="Turdus viscivorus" target="Falco tinnunculus" />
+    <edge source="Emberiza calandra" target="Accipiter gentilis" />
+    <edge source="Oriolus oriolus" target="Accipiter gentilis" />
+    <edge source="Oriolus oriolus" target="Falco tinnunculus" />
+    <edge source="Lullula arborea" target="Accipiter gentilis" />
+    <edge source="Picus viridis" target="Accipiter gentilis" />
+    <edge source="Picus viridis" target="Buteo buteo" />
+    <edge source="Passer montanus" target="Falco tinnunculus" />
+    <edge source="Anas platyrhynchos" target="Accipiter gentilis" />
+    <edge source="Anas platyrhynchos" target="Sus scrofa" />
+    <edge source="Parus caeruleus" target="Accipiter gentilis" />
+    <edge source="Parus caeruleus" target="Falco tinnunculus" />
+    <edge source="Parus caeruleus" target="Lanius collurio" />
+    <edge source="Troglodytes troglodytes" target="Falco tinnunculus" />
+    <edge source="Alauda arvensis" target="Falco tinnunculus" />
+    <edge source="Lanius meridionalis" target="Accipiter gentilis" />
+    <edge source="Pipistrellus kuhlii" target="Falco tinnunculus" />
+    <edge source="Motacilla cinerea" target="Falco tinnunculus" />
+    <edge source="Carduelis chloris" target="Accipiter gentilis" />
+    <edge source="Carduelis chloris" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Oenanthe oenanthe" />
+    <edge source="Invertebrates" target="Motacilla alba" />
+    <edge source="Invertebrates" target="Emberiza citrinella" />
+    <edge source="Invertebrates" target="Anthus spinoletta" />
+    <edge source="Invertebrates" target="Upupa epops" />
+    <edge source="Invertebrates" target="Pica pica" />
+    <edge source="Invertebrates" target="Coturnix coturnix" />
+    <edge source="Invertebrates" target="Pyrrhocorax pyrrhocorax" />
+    <edge source="Invertebrates" target="Luscinia megarhynchos" />
+    <edge source="Invertebrates" target="Erithacus rubecula" />
+    <edge source="Invertebrates" target="Sus scrofa" />
+    <edge source="Invertebrates" target="Emberiza cia" />
+    <edge source="Invertebrates" target="Corvus corone" />
+    <edge source="Invertebrates" target="Apus apus" />
+    <edge source="Invertebrates" target="Anthus trivialis" />
+    <edge source="Invertebrates" target="Turdus merula" />
+    <edge source="Invertebrates" target="Parus major" />
+    <edge source="Invertebrates" target="Passer montanus" />
+    <edge source="Invertebrates" target="Turdus viscivorus" />
+    <edge source="Invertebrates" target="Motacilla flava" />
+    <edge source="Invertebrates" target="Emberiza calandra" />
+    <edge source="Invertebrates" target="Pipistrellus kuhlii" />
+    <edge source="Invertebrates" target="Lullula arborea" />
+    <edge source="Invertebrates" target="Prunella modularis" />
+    <edge source="Invertebrates" target="Pernis apivorus" />
+    <edge source="Invertebrates" target="Delichon urbica" />
+    <edge source="Invertebrates" target="Cinclus cinclus" />
+    <edge source="Invertebrates" target="Parus caeruleus" />
+    <edge source="Invertebrates" target="Troglodytes troglodytes" />
+    <edge source="Invertebrates" target="Lanius meridionalis" />
+    <edge source="Invertebrates" target="Oriolus oriolus" />
+    <edge source="Invertebrates" target="Burhinus oedicnemus" />
+    <edge source="Invertebrates" target="Saxicola torquata" />
+    <edge source="Invertebrates" target="Corvus monedula" />
+    <edge source="Invertebrates" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Garrulus glandarius" />
+    <edge source="Invertebrates" target="Sylvia communis" />
+    <edge source="Invertebrates" target="Buteo buteo" />
+    <edge source="Invertebrates" target="Aegithalos caudatus" />
+    <edge source="Invertebrates" target="Circaetus gallicus" />
+    <edge source="Invertebrates" target="Dendrocopos major" />
+    <edge source="Invertebrates" target="Saxicola rubetra" />
+    <edge source="Invertebrates" target="Corvus corax" />
+    <edge source="Invertebrates" target="Miliaria calandra" />
+    <edge source="Invertebrates" target="Certhia brachydactyla" />
+    <edge source="Invertebrates" target="Cuculus canorus" />
+    <edge source="Invertebrates" target="Lacerta agilis" />
+    <edge source="Invertebrates" target="Motacilla cinerea" />
+    <edge source="Invertebrates" target="Hirundo rustica" />
+    <edge source="Invertebrates" target="Bufo calamita" />
+    <edge source="Invertebrates" target="Accipiter gentilis" />
+    <edge source="Invertebrates" target="Phoenicurus ochruros" />
+    <edge source="Invertebrates" target="Sylvia atricapilla" />
+    <edge source="Invertebrates" target="Sturnus vulgaris" />
+    <edge source="Loxia curvirostra" target="Accipiter gentilis" />
+    <edge source="Garrulus glandarius" target="Accipiter gentilis" />
+    <edge source="Garrulus glandarius" target="Buteo buteo" />
+    <edge source="Columba palumbus" target="Accipiter gentilis" />
+    <edge source="Columba palumbus" target="Buteo buteo" />
+    <edge source="Dendrocopos major" target="Accipiter gentilis" />
+    <edge source="Dendrocopos major" target="Buteo buteo" />
+    <edge source="Saxicola rubetra" target="Accipiter gentilis" />
+    <edge source="Saxicola rubetra" target="Falco tinnunculus" />
+    <edge source="Corvus corax" target="Accipiter gentilis" />
+    <edge source="Corvus corax" target="Buteo buteo" />
+    <edge source="Cinclus cinclus" target="Accipiter gentilis" />
+    <edge source="Miliaria calandra" target="Accipiter gentilis" />
+    <edge source="Fish" target="Lanius meridionalis" />
+    <edge source="Fish" target="Cinclus cinclus" />
+    <edge source="Sylvia atricapilla" target="Buteo buteo" />
+    <edge source="Cuculus canorus" target="Accipiter gentilis" />
+    <edge source="Cuculus canorus" target="Buteo buteo" />
+    <edge source="Phoenicurus ochruros" target="Falco tinnunculus" />
+    <edge source="Passer domesticus" target="Accipiter gentilis" />
+    <edge source="Passer domesticus" target="Buteo buteo" />
+    <edge source="Passer domesticus" target="Falco tinnunculus" />
+    <edge source="Certhia brachydactyla" target="Accipiter gentilis" />
+    <edge source="Sturnus vulgaris" target="Accipiter gentilis" />
+    <edge source="Sturnus vulgaris" target="Falco tinnunculus" />
+  </graph>
+</graphml>

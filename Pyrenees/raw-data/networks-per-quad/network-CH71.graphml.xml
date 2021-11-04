@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="biomass" attr.type="string" for="node" id="d2" />
+  <key attr.name="biomass" attr.type="double" for="node" id="d1" />
+  <key attr.name="group" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Oenanthe oenanthe">
+      <data key="d0">Bird</data>
+      <data key="d1">25.09</data>
+    </node>
+    <node id="Falco peregrinus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">736.1</data>
+    </node>
+    <node id="Anthus spinoletta">
+      <data key="d0">Bird</data>
+      <data key="d1">21.2</data>
+    </node>
+    <node id="Corvus corax">
+      <data key="d0">Bird</data>
+      <data key="d1">1157.0</data>
+    </node>
+    <node id="Pyrrhocorax pyrrhocorax">
+      <data key="d0">Bird</data>
+      <data key="d1">277.8</data>
+    </node>
+    <node id="Fringilla coelebs">
+      <data key="d0">Bird</data>
+      <data key="d1">24.26</data>
+    </node>
+    <node id="Sus scrofa">
+      <data key="d0">Mammal</data>
+      <data key="d1">85000.0</data>
+    </node>
+    <node id="Turdus viscivorus">
+      <data key="d0">Bird</data>
+      <data key="d1">105.85</data>
+    </node>
+    <node id="Prunella modularis">
+      <data key="d0">Bird</data>
+      <data key="d1">20.41</data>
+    </node>
+    <node id="Pipistrellus kuhlii">
+      <data key="d0">Mammal</data>
+      <data key="d1">6.0</data>
+    </node>
+    <node id="Regulus regulus">
+      <data key="d0">Bird</data>
+      <data key="d1">5.7</data>
+    </node>
+    <node id="Aquila chrysaetos">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">4800.0</data>
+    </node>
+    <node id="Alauda arvensis">
+      <data key="d0">Bird</data>
+      <data key="d1">39.77</data>
+    </node>
+    <node id="Parus ater">
+      <data key="d0">Bird</data>
+      <data key="d1">8.0</data>
+    </node>
+    <node id="Timon lepidus">
+      <data key="d0">Reptile</data>
+      <data key="d1">91.1</data>
+    </node>
+    <node id="Falco tinnunculus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">186.95</data>
+    </node>
+    <node id="Invertebrates">
+      <data key="d0">Invertebrate</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Strix aluco">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">460.88</data>
+    </node>
+    <node id="Columba palumbus">
+      <data key="d0">Bird</data>
+      <data key="d1">486.83</data>
+    </node>
+    <node id="Ptyonoprogne rupestris">
+      <data key="d0">Bird</data>
+      <data key="d1">19.0</data>
+    </node>
+    <node id="Bufo bufo">
+      <data key="d0">Amphibian</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Hirundo rustica">
+      <data key="d0">Bird</data>
+      <data key="d1">17.54</data>
+    </node>
+    <node id="Phoenicurus ochruros">
+      <data key="d0">Bird</data>
+      <data key="d1">16.5</data>
+    </node>
+    <node id="Pyrrhocorax graculus">
+      <data key="d0">Bird</data>
+      <data key="d1">223.5</data>
+    </node>
+    <edge source="Anthus spinoletta" target="Falco peregrinus" />
+    <edge source="Corvus corax" target="Aquila chrysaetos" />
+    <edge source="Pyrrhocorax pyrrhocorax" target="Falco peregrinus" />
+    <edge source="Pyrrhocorax pyrrhocorax" target="Aquila chrysaetos" />
+    <edge source="Fringilla coelebs" target="Falco peregrinus" />
+    <edge source="Fringilla coelebs" target="Falco tinnunculus" />
+    <edge source="Sus scrofa" target="Aquila chrysaetos" />
+    <edge source="Turdus viscivorus" target="Falco peregrinus" />
+    <edge source="Turdus viscivorus" target="Falco tinnunculus" />
+    <edge source="Turdus viscivorus" target="Aquila chrysaetos" />
+    <edge source="Pipistrellus kuhlii" target="Falco tinnunculus" />
+    <edge source="Regulus regulus" target="Falco tinnunculus" />
+    <edge source="Alauda arvensis" target="Falco peregrinus" />
+    <edge source="Alauda arvensis" target="Falco tinnunculus" />
+    <edge source="Parus ater" target="Aquila chrysaetos" />
+    <edge source="Timon lepidus" target="Aquila chrysaetos" />
+    <edge source="Falco tinnunculus" target="Aquila chrysaetos" />
+    <edge source="Falco tinnunculus" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Falco peregrinus" />
+    <edge source="Invertebrates" target="Ptyonoprogne rupestris" />
+    <edge source="Invertebrates" target="Sus scrofa" />
+    <edge source="Invertebrates" target="Oenanthe oenanthe" />
+    <edge source="Invertebrates" target="Anthus spinoletta" />
+    <edge source="Invertebrates" target="Aquila chrysaetos" />
+    <edge source="Invertebrates" target="Hirundo rustica" />
+    <edge source="Invertebrates" target="Bufo bufo" />
+    <edge source="Invertebrates" target="Corvus corax" />
+    <edge source="Invertebrates" target="Turdus viscivorus" />
+    <edge source="Invertebrates" target="Pyrrhocorax pyrrhocorax" />
+    <edge source="Invertebrates" target="Prunella modularis" />
+    <edge source="Invertebrates" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Pipistrellus kuhlii" />
+    <edge source="Invertebrates" target="Timon lepidus" />
+    <edge source="Invertebrates" target="Phoenicurus ochruros" />
+    <edge source="Invertebrates" target="Strix aluco" />
+    <edge source="Invertebrates" target="Regulus regulus" />
+    <edge source="Invertebrates" target="Pyrrhocorax graculus" />
+    <edge source="Columba palumbus" target="Falco peregrinus" />
+    <edge source="Columba palumbus" target="Aquila chrysaetos" />
+    <edge source="Ptyonoprogne rupestris" target="Falco peregrinus" />
+    <edge source="Phoenicurus ochruros" target="Falco tinnunculus" />
+    <edge source="Pyrrhocorax graculus" target="Aquila chrysaetos" />
+  </graph>
+</graphml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="biomass" attr.type="string" for="node" id="d2" />
+  <key attr.name="biomass" attr.type="double" for="node" id="d1" />
+  <key attr.name="group" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Oenanthe oenanthe">
+      <data key="d0">Bird</data>
+      <data key="d1">25.09</data>
+    </node>
+    <node id="Anthus spinoletta">
+      <data key="d0">Bird</data>
+      <data key="d1">21.2</data>
+    </node>
+    <node id="Corvus corax">
+      <data key="d0">Bird</data>
+      <data key="d1">1157.0</data>
+    </node>
+    <node id="Pyrrhocorax pyrrhocorax">
+      <data key="d0">Bird</data>
+      <data key="d1">277.8</data>
+    </node>
+    <node id="Delichon urbica">
+      <data key="d0">Bird</data>
+      <data key="d1">14.5</data>
+    </node>
+    <node id="Pernis apivorus">
+      <data key="d0">Bird</data>
+      <data key="d1">758.0</data>
+    </node>
+    <node id="Cinclus cinclus">
+      <data key="d0">Bird</data>
+      <data key="d1">61.36</data>
+    </node>
+    <node id="Falco tinnunculus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">186.95</data>
+    </node>
+    <node id="Invertebrates">
+      <data key="d0">Invertebrate</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Fish">
+      <data key="d0">Fish</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Merops apiaster">
+      <data key="d0">Bird</data>
+      <data key="d1">56.6</data>
+    </node>
+    <node id="Phoenicurus ochruros">
+      <data key="d0">Bird</data>
+      <data key="d1">16.5</data>
+    </node>
+    <node id="Pyrrhocorax graculus">
+      <data key="d0">Bird</data>
+      <data key="d1">223.5</data>
+    </node>
+    <node id="Lagopus mutus">
+      <data key="d0">Bird</data>
+      <data key="d1">535.5</data>
+    </node>
+    <edge source="Falco tinnunculus" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Pernis apivorus" />
+    <edge source="Invertebrates" target="Cinclus cinclus" />
+    <edge source="Invertebrates" target="Oenanthe oenanthe" />
+    <edge source="Invertebrates" target="Anthus spinoletta" />
+    <edge source="Invertebrates" target="Lagopus mutus" />
+    <edge source="Invertebrates" target="Merops apiaster" />
+    <edge source="Invertebrates" target="Corvus corax" />
+    <edge source="Invertebrates" target="Pyrrhocorax pyrrhocorax" />
+    <edge source="Invertebrates" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Delichon urbica" />
+    <edge source="Invertebrates" target="Phoenicurus ochruros" />
+    <edge source="Invertebrates" target="Pyrrhocorax graculus" />
+    <edge source="Fish" target="Cinclus cinclus" />
+    <edge source="Merops apiaster" target="Falco tinnunculus" />
+    <edge source="Phoenicurus ochruros" target="Falco tinnunculus" />
+  </graph>
+</graphml>

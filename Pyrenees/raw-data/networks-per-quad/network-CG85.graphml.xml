@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="biomass" attr.type="string" for="node" id="d2" />
+  <key attr.name="biomass" attr.type="double" for="node" id="d1" />
+  <key attr.name="group" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Motacilla alba">
+      <data key="d0">Bird</data>
+      <data key="d1">18.96</data>
+    </node>
+    <node id="Turdus torquatus">
+      <data key="d0">Bird</data>
+      <data key="d1">109.0</data>
+    </node>
+    <node id="Oriolus oriolus">
+      <data key="d0">Bird</data>
+      <data key="d1">71.9</data>
+    </node>
+    <node id="Corvus corax">
+      <data key="d0">Bird</data>
+      <data key="d1">1157.0</data>
+    </node>
+    <node id="Alcedo atthis">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">36.3</data>
+    </node>
+    <node id="Turdus merula">
+      <data key="d0">Bird</data>
+      <data key="d1">98.17</data>
+    </node>
+    <node id="Fringilla coelebs">
+      <data key="d0">Bird</data>
+      <data key="d1">24.26</data>
+    </node>
+    <node id="Erithacus rubecula">
+      <data key="d0">Bird</data>
+      <data key="d1">17.3</data>
+    </node>
+    <node id="Sus scrofa">
+      <data key="d0">Mammal</data>
+      <data key="d1">85000.0</data>
+    </node>
+    <node id="Garrulus glandarius">
+      <data key="d0">Bird</data>
+      <data key="d1">168.89</data>
+    </node>
+    <node id="Corvus corone">
+      <data key="d0">Bird</data>
+      <data key="d1">472.7</data>
+    </node>
+    <node id="Crocidura russula">
+      <data key="d0">Mammal</data>
+      <data key="d1">7.76</data>
+    </node>
+    <node id="Psammodromus algirus">
+      <data key="d0">Reptile</data>
+      <data key="d1">11.7</data>
+    </node>
+    <node id="Delichon urbica">
+      <data key="d0">Bird</data>
+      <data key="d1">14.5</data>
+    </node>
+    <node id="Sylvia atricapilla">
+      <data key="d0">Bird</data>
+      <data key="d1">19.37</data>
+    </node>
+    <node id="Lullula arborea">
+      <data key="d0">Bird</data>
+      <data key="d1">26.9</data>
+    </node>
+    <node id="Columba palumbus">
+      <data key="d0">Bird</data>
+      <data key="d1">486.83</data>
+    </node>
+    <node id="Parus caeruleus">
+      <data key="d0">Bird</data>
+      <data key="d1">10.79</data>
+    </node>
+    <node id="Troglodytes troglodytes">
+      <data key="d0">Bird</data>
+      <data key="d1">10.0</data>
+    </node>
+    <node id="Microtus duodecimcostatus">
+      <data key="d0">Mammal</data>
+      <data key="d1">25.5</data>
+    </node>
+    <node id="Mus musculus">
+      <data key="d0">Mammal</data>
+      <data key="d1">21.0</data>
+    </node>
+    <node id="Suncus etruscus">
+      <data key="d0">Mammal</data>
+      <data key="d1">1.95</data>
+    </node>
+    <node id="Sitta europaea">
+      <data key="d0">Bird</data>
+      <data key="d1">23.03</data>
+    </node>
+    <node id="Cuculus canorus">
+      <data key="d0">Bird</data>
+      <data key="d1">104.22</data>
+    </node>
+    <node id="Mustela vison">
+      <data key="d0">MammalCarn</data>
+      <data key="d1">602.56</data>
+    </node>
+    <node id="Invertebrates">
+      <data key="d0">Invertebrate</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Emberiza cirlus">
+      <data key="d0">Bird</data>
+      <data key="d1">23.1</data>
+    </node>
+    <node id="Buteo buteo">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">744.91</data>
+    </node>
+    <node id="Phoenicurus ochruros">
+      <data key="d0">Bird</data>
+      <data key="d1">16.5</data>
+    </node>
+    <node id="Strix aluco">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">460.88</data>
+    </node>
+    <node id="Dendrocopos major">
+      <data key="d0">Bird</data>
+      <data key="d1">75.1</data>
+    </node>
+    <node id="Circaetus gallicus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">1699.5</data>
+    </node>
+    <node id="Fish">
+      <data key="d0">Fish</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Luscinia megarhynchos">
+      <data key="d0">Bird</data>
+      <data key="d1">19.4</data>
+    </node>
+    <node id="Motacilla cinerea">
+      <data key="d0">Bird</data>
+      <data key="d1">17.2</data>
+    </node>
+    <node id="Dryocopus martius">
+      <data key="d0">Bird</data>
+      <data key="d1">321.0</data>
+    </node>
+    <node id="Aegithalos caudatus">
+      <data key="d0">Bird</data>
+      <data key="d1">8.2</data>
+    </node>
+    <node id="Passer domesticus">
+      <data key="d0">Bird</data>
+      <data key="d1">28.49</data>
+    </node>
+    <node id="Certhia brachydactyla">
+      <data key="d0">Bird</data>
+      <data key="d1">8.2</data>
+    </node>
+    <edge source="Corvus corax" target="Buteo buteo" />
+    <edge source="Turdus merula" target="Buteo buteo" />
+    <edge source="Fringilla coelebs" target="Buteo buteo" />
+    <edge source="Erithacus rubecula" target="Buteo buteo" />
+    <edge source="Garrulus glandarius" target="Buteo buteo" />
+    <edge source="Crocidura russula" target="Strix aluco" />
+    <edge source="Crocidura russula" target="Sus scrofa" />
+    <edge source="Crocidura russula" target="Mustela vison" />
+    <edge source="Crocidura russula" target="Buteo buteo" />
+    <edge source="Psammodromus algirus" target="Buteo buteo" />
+    <edge source="Sylvia atricapilla" target="Buteo buteo" />
+    <edge source="Columba palumbus" target="Buteo buteo" />
+    <edge source="Microtus duodecimcostatus" target="Buteo buteo" />
+    <edge source="Microtus duodecimcostatus" target="Sus scrofa" />
+    <edge source="Mus musculus" target="Buteo buteo" />
+    <edge source="Mus musculus" target="Mustela vison" />
+    <edge source="Cuculus canorus" target="Buteo buteo" />
+    <edge source="Mustela vison" target="Buteo buteo" />
+    <edge source="Invertebrates" target="Delichon urbica" />
+    <edge source="Invertebrates" target="Motacilla alba" />
+    <edge source="Invertebrates" target="Turdus torquatus" />
+    <edge source="Invertebrates" target="Corvus corax" />
+    <edge source="Invertebrates" target="Turdus merula" />
+    <edge source="Invertebrates" target="Erithacus rubecula" />
+    <edge source="Invertebrates" target="Sus scrofa" />
+    <edge source="Invertebrates" target="Garrulus glandarius" />
+    <edge source="Invertebrates" target="Corvus corone" />
+    <edge source="Invertebrates" target="Crocidura russula" />
+    <edge source="Invertebrates" target="Psammodromus algirus" />
+    <edge source="Invertebrates" target="Oriolus oriolus" />
+    <edge source="Invertebrates" target="Sylvia atricapilla" />
+    <edge source="Invertebrates" target="Parus caeruleus" />
+    <edge source="Invertebrates" target="Troglodytes troglodytes" />
+    <edge source="Invertebrates" target="Microtus duodecimcostatus" />
+    <edge source="Invertebrates" target="Suncus etruscus" />
+    <edge source="Invertebrates" target="Lullula arborea" />
+    <edge source="Invertebrates" target="Cuculus canorus" />
+    <edge source="Invertebrates" target="Mustela vison" />
+    <edge source="Invertebrates" target="Emberiza cirlus" />
+    <edge source="Invertebrates" target="Buteo buteo" />
+    <edge source="Invertebrates" target="Phoenicurus ochruros" />
+    <edge source="Invertebrates" target="Strix aluco" />
+    <edge source="Invertebrates" target="Dendrocopos major" />
+    <edge source="Invertebrates" target="Circaetus gallicus" />
+    <edge source="Invertebrates" target="Sitta europaea" />
+    <edge source="Invertebrates" target="Certhia brachydactyla" />
+    <edge source="Invertebrates" target="Luscinia megarhynchos" />
+    <edge source="Invertebrates" target="Motacilla cinerea" />
+    <edge source="Invertebrates" target="Dryocopus martius" />
+    <edge source="Invertebrates" target="Aegithalos caudatus" />
+    <edge source="Dendrocopos major" target="Buteo buteo" />
+    <edge source="Fish" target="Alcedo atthis" />
+    <edge source="Passer domesticus" target="Buteo buteo" />
+  </graph>
+</graphml>

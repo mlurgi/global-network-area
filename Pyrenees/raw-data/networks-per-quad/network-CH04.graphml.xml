@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="biomass" attr.type="string" for="node" id="d2" />
+  <key attr.name="biomass" attr.type="double" for="node" id="d1" />
+  <key attr.name="group" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Perdix perdix">
+      <data key="d0">Bird</data>
+      <data key="d1">392.48</data>
+    </node>
+    <node id="Turdus philomelos">
+      <data key="d0">Bird</data>
+      <data key="d1">67.8</data>
+    </node>
+    <node id="Corvus corax">
+      <data key="d0">Bird</data>
+      <data key="d1">1157.0</data>
+    </node>
+    <node id="Fringilla coelebs">
+      <data key="d0">Bird</data>
+      <data key="d1">24.26</data>
+    </node>
+    <node id="Erithacus rubecula">
+      <data key="d0">Bird</data>
+      <data key="d1">17.3</data>
+    </node>
+    <node id="Sus scrofa">
+      <data key="d0">Mammal</data>
+      <data key="d1">85000.0</data>
+    </node>
+    <node id="Garrulus glandarius">
+      <data key="d0">Bird</data>
+      <data key="d1">168.89</data>
+    </node>
+    <node id="Turdus merula">
+      <data key="d0">Bird</data>
+      <data key="d1">98.17</data>
+    </node>
+    <node id="Parus major">
+      <data key="d0">Bird</data>
+      <data key="d1">17.02</data>
+    </node>
+    <node id="Regulus regulus">
+      <data key="d0">Bird</data>
+      <data key="d1">5.7</data>
+    </node>
+    <node id="Sylvia atricapilla">
+      <data key="d0">Bird</data>
+      <data key="d1">19.37</data>
+    </node>
+    <node id="Prunella modularis">
+      <data key="d0">Bird</data>
+      <data key="d1">20.41</data>
+    </node>
+    <node id="Certhia familiaris">
+      <data key="d0">Bird</data>
+      <data key="d1">9.1</data>
+    </node>
+    <node id="Parus caeruleus">
+      <data key="d0">Bird</data>
+      <data key="d1">10.79</data>
+    </node>
+    <node id="Troglodytes troglodytes">
+      <data key="d0">Bird</data>
+      <data key="d1">10.0</data>
+    </node>
+    <node id="Invertebrates">
+      <data key="d0">Invertebrate</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Buteo buteo">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">744.91</data>
+    </node>
+    <node id="Dendrocopos major">
+      <data key="d0">Bird</data>
+      <data key="d1">75.1</data>
+    </node>
+    <node id="Dryocopus martius">
+      <data key="d0">Bird</data>
+      <data key="d1">321.0</data>
+    </node>
+    <node id="Aegithalos caudatus">
+      <data key="d0">Bird</data>
+      <data key="d1">8.2</data>
+    </node>
+    <edge source="Turdus philomelos" target="Buteo buteo" />
+    <edge source="Corvus corax" target="Buteo buteo" />
+    <edge source="Fringilla coelebs" target="Buteo buteo" />
+    <edge source="Erithacus rubecula" target="Buteo buteo" />
+    <edge source="Garrulus glandarius" target="Buteo buteo" />
+    <edge source="Turdus merula" target="Buteo buteo" />
+    <edge source="Parus major" target="Buteo buteo" />
+    <edge source="Sylvia atricapilla" target="Buteo buteo" />
+    <edge source="Invertebrates" target="Erithacus rubecula" />
+    <edge source="Invertebrates" target="Sus scrofa" />
+    <edge source="Invertebrates" target="Garrulus glandarius" />
+    <edge source="Invertebrates" target="Parus caeruleus" />
+    <edge source="Invertebrates" target="Troglodytes troglodytes" />
+    <edge source="Invertebrates" target="Perdix perdix" />
+    <edge source="Invertebrates" target="Turdus philomelos" />
+    <edge source="Invertebrates" target="Turdus merula" />
+    <edge source="Invertebrates" target="Parus major" />
+    <edge source="Invertebrates" target="Regulus regulus" />
+    <edge source="Invertebrates" target="Dryocopus martius" />
+    <edge source="Invertebrates" target="Prunella modularis" />
+    <edge source="Invertebrates" target="Sylvia atricapilla" />
+    <edge source="Invertebrates" target="Corvus corax" />
+    <edge source="Invertebrates" target="Dendrocopos major" />
+    <edge source="Invertebrates" target="Aegithalos caudatus" />
+    <edge source="Invertebrates" target="Buteo buteo" />
+    <edge source="Invertebrates" target="Certhia familiaris" />
+    <edge source="Dendrocopos major" target="Buteo buteo" />
+  </graph>
+</graphml>

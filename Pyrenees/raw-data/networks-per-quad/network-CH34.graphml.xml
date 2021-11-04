@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="biomass" attr.type="string" for="node" id="d2" />
+  <key attr.name="biomass" attr.type="double" for="node" id="d1" />
+  <key attr.name="group" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Aquila chrysaetos">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">4800.0</data>
+    </node>
+    <node id="Anthus spinoletta">
+      <data key="d0">Bird</data>
+      <data key="d1">21.2</data>
+    </node>
+    <node id="Pyrrhocorax pyrrhocorax">
+      <data key="d0">Bird</data>
+      <data key="d1">277.8</data>
+    </node>
+    <node id="Falco tinnunculus">
+      <data key="d0">BirdPrey</data>
+      <data key="d1">186.95</data>
+    </node>
+    <node id="Invertebrates">
+      <data key="d0">Invertebrate</data>
+      <data key="d2">0.0</data>
+    </node>
+    <node id="Pyrrhocorax graculus">
+      <data key="d0">Bird</data>
+      <data key="d1">223.5</data>
+    </node>
+    <edge source="Pyrrhocorax pyrrhocorax" target="Aquila chrysaetos" />
+    <edge source="Falco tinnunculus" target="Aquila chrysaetos" />
+    <edge source="Falco tinnunculus" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Aquila chrysaetos" />
+    <edge source="Invertebrates" target="Pyrrhocorax graculus" />
+    <edge source="Invertebrates" target="Pyrrhocorax pyrrhocorax" />
+    <edge source="Invertebrates" target="Falco tinnunculus" />
+    <edge source="Invertebrates" target="Anthus spinoletta" />
+    <edge source="Pyrrhocorax graculus" target="Aquila chrysaetos" />
+  </graph>
+</graphml>
