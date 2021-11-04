@@ -18,7 +18,7 @@ Start here!
 ## Copyright (c) Miguel Lurgi, 2020
 ## Email: miguel.lurgi@swansea.ac.uk; galiana.nuria@gmail.com
 
-This archive (Data_and_Code.zip) contains the data and source code used to produce the results
+This project contains the data and source code used to produce the results
 presented in our paper entitled:
 
 'The spatial scaling of ecological networks across the globe' (Galiana, Lurgi et al. (2021))
