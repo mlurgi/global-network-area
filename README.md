@@ -9,10 +9,9 @@
 ## Centre for Biodiversity Theory and Modelling
 ## Theoretical and Experimental Ecology Station, CNRS, France
 ##
-## Date Created: 25-05-2020
-##
-## Copyright (c) Miguel Lurgi, 2020
 ## Email: miguel.lurgi@swansea.ac.uk; galiana.nuria@gmail.com
+
+Date Created: 25-05-2020 - Copyright (c) Miguel Lurgi, 2020
 
 This project contains the data and source code used to produce the results
 presented in our paper entitled:
