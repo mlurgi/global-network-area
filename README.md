@@ -1,14 +1,14 @@
 # global-network-area
 
-## Authors: Dr Miguel Lurgi
-## Lecturer in Biosciences (Computational Ecology)
-## Computational Ecology Lab - Department of Biosciences
-## Swansea University, UK
+## Dr Miguel Lurgi
+Lecturer in Biosciences (Computational Ecology)
+Computational Ecology Lab - Department of Biosciences
+Swansea University, UK
 ## 
 ## Dr Nuria Galiana 
-## Centre for Biodiversity Theory and Modelling
-## Theoretical and Experimental Ecology Station, CNRS, France
-##
+Centre for Biodiversity Theory and Modelling
+Theoretical and Experimental Ecology Station, CNRS, France
+
 ## Email: miguel.lurgi@swansea.ac.uk; galiana.nuria@gmail.com
 
 Date Created: 25-05-2020 - Copyright (c) Miguel Lurgi, 2020
