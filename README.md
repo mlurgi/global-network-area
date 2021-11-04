@@ -1,13 +1,10 @@
 # global-network-area
 
 ## Dr Miguel Lurgi
-Lecturer in Biosciences (Computational Ecology)
-Computational Ecology Lab - Department of Biosciences
-Swansea University, UK
+Lecturer in Biosciences. Computational Ecology Lab, Department of Biosciences, Swansea University, UK
 ## 
 ## Dr Nuria Galiana 
-Centre for Biodiversity Theory and Modelling
-Theoretical and Experimental Ecology Station, CNRS, France
+Centre for Biodiversity Theory and Modelling. Theoretical and Experimental Ecology Station, CNRS, France
 
 ## Email: miguel.lurgi@swansea.ac.uk; galiana.nuria@gmail.com
 
