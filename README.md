@@ -1,16 +1,12 @@
 # global-network-area
 
-Start here!
-
-## Authors: Dr Miguel Lurgi and Dr Nuria Galiana
-## 
+## Authors: Dr Miguel Lurgi
 ## Lecturer in Biosciences (Computational Ecology)
 ## Computational Ecology Lab - Department of Biosciences
 ## Swansea University, UK
 ## 
-## and
-##
-## Postdoc at Centre for Biodiversity Theory and Modelling
+## Dr Nuria Galiana 
+## Centre for Biodiversity Theory and Modelling
 ## Theoretical and Experimental Ecology Station, CNRS, France
 ##
 ## Date Created: 25-05-2020
