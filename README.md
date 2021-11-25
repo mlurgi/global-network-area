@@ -1,17 +1,22 @@
 # global-network-area
 
 ## Dr Miguel Lurgi - miguel.lurgi@swansea.ac.uk
-Lecturer in Biosciences. Computational Ecology Lab, Department of Biosciences, Swansea University, UK
-## 
+Computational Ecology Lab  
+Swansea University, UK  
+
+Centre for Biodiversity Theory and Modelling  
+Theoretical and Experimental Ecology Station, CNRS, France
+
 ## Dr Nuria Galiana - galiana.nuria@gmail.com
-Centre for Biodiversity Theory and Modelling. Theoretical and Experimental Ecology Station, CNRS, France
+Centre for Biodiversity Theory and Modelling  
+Theoretical and Experimental Ecology Station, CNRS, France
 
 Date Created: 25-05-2020 - Copyright (c) Miguel Lurgi, 2020
 
 This project contains the data and source code used to produce the results
 presented in our paper entitled:
 
-'The spatial scaling of ecological networks across the globe' (Galiana, Lurgi et al. (2021))
+'Ecological network complexity scales with area' (Galiana, Lurgi et al. (2021), ***Nature Ecology & Evolution***)
 
 In this README file we describe the contents of the archive (i.e. files and folders contained here) 
 and provide a brief description of how the source code scripts should be executed to obtain the figures
